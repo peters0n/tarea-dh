@@ -1,1 +1,1 @@
-console.log("Hola, esta es la tarea 1")
+console.log("Hola, esta es la tarea 1 modificada por peterson")
